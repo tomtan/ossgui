@@ -1,0 +1,9 @@
+[project]
+name = "ossgui"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "oci-cli>=3.63.0",
+]
