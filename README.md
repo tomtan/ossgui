@@ -1,9 +1,9 @@
 ### GUI Desktop Application for OCI Object Storage
 #### About
 It's a quick python app for those people want a desktop gui to connect OCI OSS.
-1.First is install oci cli tool on your host.
-2.Second is setup your ~/.oci/config profile with OCI IAM.
-3.Run this python app.
+- 1.First is to install oci cli tool on your host.
+- 2.Second is to setup your ~/.oci/config profile with OCI IAM.
+- 3.Run this python app.
 
 #### How to run this app?
 ```commandline
